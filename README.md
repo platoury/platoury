@@ -13,7 +13,7 @@
 
 - 👨‍💻 Hi, I’m **Ali Hussein**  
 - 🎮 I create **2D / 3D games** with **Godot Engine**  
-- 💻 Main programming weapons: **C, Python & GDScript**  
+- 💻 Main programming weapons: **GDScript, Python & C**  
 - 📚 **Raylib** (C library for game programming)  
 - 📺 Sharing my work on [**YouTube**](https://www.youtube.com/@Platourygo)  
 - 💼 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/platoury/)  
