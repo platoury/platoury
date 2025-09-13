@@ -10,9 +10,6 @@
 
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Platourygo&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPlatourygo&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/Platoury-grey?style=flat&logo=telegram)](https://t.me/) <br>
 </div>
 
 <hr></hr>
