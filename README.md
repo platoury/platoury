@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXppYTNhcDNnNTQ5NWQyeHFydnVyaW93ZjRuaGEwNHd6bWt5MXppZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeMIcsHFxsN5M8E/giphy.gif" width="600" alt="Cool Dev Animation"/>
-  <img src="https://tenor.com/view/godot-plush-godot-plush-makeship-gif-15232731949332559730" width="600" alt="Cool Dev Animation"/>
-
+<div align="center">
+  <img src="https://media.tenor.com/XbM3Pz9K3XYAAAAC/godot-plush-godot-plush-makeship.gif" width="250" alt="Godot Plush"/>
+</div>
 
 ## 🎮 Welcome to My Dev World!  
 
