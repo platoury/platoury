@@ -8,7 +8,7 @@
 
 <h1>✨ I'm <span style="color:#00BFFF;">Ali Hussein</span> ✨</h1>
 
-<h3>🎮 A passionate <strong>Game Developer</strong> crafting immersive worlds with <span style="color:#478CBF;">Godot Engine</span> 🎮</h3>
+<h3>🎮 A passionate <strong>Game Developer</strong> crafting immersive worlds with <span style="color:#478CBF;">Godot Engine and Raylib</span> 🎮</h3>
 
 </div>
 
