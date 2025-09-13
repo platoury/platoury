@@ -37,7 +37,7 @@
 <div align="center">
 
 <!-- Main Stats -->
-![Platoury's GitHub stats](https://github-readme-stats.vercel.app/api?username=Platoury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)  
+![Platoury's GitHub stats](https://github-readme-stats.vercel.app/api?username=Platoury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true) 
 
 
 <!-- Streak Stats -->
