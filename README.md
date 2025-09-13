@@ -37,7 +37,7 @@
 <div align="center">
 
 <!-- Main Stats -->
-![Platoury's GitHub stats](https://github-readme-stats.vercel.app/api?username=Platoury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600)
+![GitHub Streak](https://streak-stats.demolab.com?user=Platoury&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&fire=red&ring=blue&currStreakLabel=blue&cache_seconds=3600)
 
 
 <!-- Streak Stats -->
