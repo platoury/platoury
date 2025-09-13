@@ -42,8 +42,6 @@
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=Platoury&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="160"/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Platoury&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=raylib-c-examples,some-c-repo&langs_count=6" alt="Top Languages" height="160"/>
 
 </div>
 
