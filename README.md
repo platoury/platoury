@@ -15,6 +15,7 @@
 - 👋 Hi, I’m **Ali Hussein**  
 - 🧩 I create **2D / 3D games** with **Godot Engine**  
 - 💻 Main programming weapons: **C, Python & GDScript**  
+- 📚 Also learning **Raylib** (C library for game programming)  
 - 📺 Sharing my work on [**YouTube**](https://www.youtube.com/@Platourygo)  
 - 💼 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/platoury/)  
 
@@ -25,9 +26,11 @@
 <div align="center">
 
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=2C2C2C)
+![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white&labelColor=2C2C2C)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=2C2C2C)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black&labelColor=2C2C2C)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=2C2C2C)
+
 </div>
 
 ---
@@ -50,4 +53,4 @@
 # A small snippet from my engine (Godot 💙)
 func _ready():
     print("Hello, I’m Ali Hussein 👋")
-    print("Game Developer | Godot | C | Python | GDScript")
+    print("Game Developer | Godot | Raylib | C | Python | GDScript")
