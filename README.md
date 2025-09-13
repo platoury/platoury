@@ -35,5 +35,5 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Platourygo&show_icons=true&theme=tokyonight" alt="Ali's GitHub stats"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Platourygo&layout=compact&theme=tokyonight" alt="Top Langs
+  <img src="https://github-readme-stats.vercel.app/api?username=Platoury&show_icons=true&theme=tokyonight" alt="Ali's GitHub stats"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Platoury&layout=compact&theme=tokyonight" alt="Top Langs
