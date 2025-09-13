@@ -1,44 +1,67 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="70%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="45%"/><br>  
 
-<details>
-<p><strong> <summary> 🎧 Busy coding & Vibing to : </summary> </strong></p>
+## 🎮 Welcome to My Dev World!  
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com) <br>
+✨ I'm **Ali Hussein** – a passionate **Game Developer** building worlds with **Godot Engine** 🎮  
 
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Platourygo&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPlatourygo&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/Platoury-grey?style=flat&logo=telegram)](https://t.me/) <br>
 </div>
 
-<hr></hr>
+---
 
 ## 🕹️ About Me  
 
 - 👋 Hi, I’m **Ali Hussein**  
-- 🎮 I’m a **Game Developer** currently working with **Godot Engine**  
-- 💻 My main programming languages are: **C, Python, and GDScript**  
-- 📺 I share my work on **[YouTube](https://www.youtube.com/@Platourygo)**  
-- 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/platoury/)**  
+- 🧩 I create **2D / 3D games** with **Godot Engine**  
+- 💻 Main programming weapons: **C, Python & GDScript**  
+- 📺 Sharing my work on [**YouTube**](https://www.youtube.com/@Platourygo)  
+- 💼 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/platoury/)  
 
-<hr></hr>
+---
 
 ## 🚀 Tools & Tech  
 
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godot-engine&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+<div align="center">
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=2C2C2C)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=2C2C2C)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black&labelColor=2C2C2C)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=2C2C2C)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&labelColor=2C2C2C)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=2C2C2C)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=2C2C2C)
+
+</div>
+
+---
+
+## 🎧 Currently Vibing To  
+
+<div align="center">
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)  
+
+</div>
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Platourygo&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Platourygo&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🕹️ Fun Zone  
 
 ```gdscript
-# simple code snippet from my main engine (Godot)
+# A small snippet from my engine (Godot 💙)
 func _ready():
     print("Hello, I’m Ali Hussein 👋")
     print("Game Developer | Godot | C | Python | GDScript")
