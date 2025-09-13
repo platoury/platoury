@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>✨ Welcome to My Dev World! ✨</h1>
+  <h1>✨ Welcome to My GAME DEV World! ✨</h1>
   <h3>🎮 A passionate <strong>Game Developer</strong> crafting immersive worlds with <span style="color:#478CBF;">Godot Engine and Raylib</span></h3>
 </div>
 
