@@ -37,9 +37,9 @@
 <div align="center">
 
 <!-- Overall Stats -->
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Platoury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) <!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Platoury&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) <!-- Top Languages (excluding C repos) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Platoury&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=some-c-repo)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Platoury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) <!-- Streak Stats -->![GitHub Streak](https://streak-stats.demolab.com?user=Platoury&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) <!-- Top Languages (excluding C repos) -->![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Platoury&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=some-c-repo)
+
+
 
 
 
