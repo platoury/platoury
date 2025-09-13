@@ -1,17 +1,10 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXppYTNhcDNnNTQ5NWQyeHFydnVyaW93ZjRuaGEwNHd6bWt5MXppZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeMIcsHFxsN5M8E/giphy.gif" width="600" alt="Cool Dev Animation"/>
-
-
-## 🎮 Welcome to My Dev World!  
-
-<div align="center">
-
-<h1>✨ I'm <span style="color:#00BFFF;">Ali Hussein</span> ✨</h1>
-
-<h3>🎮 A passionate <strong>Game Developer</strong> crafting immersive worlds with <span style="color:#478CBF;">Godot Engine and Raylib</span> 🎮</h3>
-
 </div>
 
+<div align="center">
+  <h1>✨ Welcome to My Dev World! ✨</h1>
+  <h3>🎮 A passionate <strong>Game Developer</strong> crafting immersive worlds with <span style="color:#478CBF;">Godot Engine and Raylib</span></h3>
 </div>
 
 ---
@@ -30,25 +23,20 @@
 ## 🚀 Tools & Tech  
 
 <div align="center">
-
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=2C2C2C)
-![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white&labelColor=2C2C2C)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=2C2C2C)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black&labelColor=2C2C2C)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=2C2C2C)
-
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=2C2C2C" alt="Godot"/>
+  <img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white&labelColor=2C2C2C" alt="Raylib"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=2C2C2C" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black&labelColor=2C2C2C" alt="Python"/>
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=2C2C2C" alt="GDScript"/>
 </div>
 
 ---
 
-
 ## 📊 GitHub Stats  
 
 <div align="center">
-
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Platourygo&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Platourygo&layout=compact&theme=tokyonight)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Platourygo&show_icons=true&theme=tokyonight" alt="Ali's GitHub stats"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Platourygo&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </div>
 
 ---
@@ -82,4 +70,3 @@ func get_movement_vector() -> Vector2:
 	var x_movement = Input.get_action_strength("move_right") - Input.get_action_strength("move_left")
 	var y_movement = Input.get_action_strength("move_down") - Input.get_action_strength("move_up")
 	return Vector2(x_movement, y_movement)
-
