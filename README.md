@@ -38,9 +38,9 @@
 ## 🎧 Currently Vibing To  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="300px"/>
-  <br>
-  🎶 Listening to: Assassin’s Creed OST 🎮
+
+[![Assassin's Creed II OST](https://i.scdn.co/image/ab67616d0000b27328b1daea6cd1c4a41d65293a)](https://open.spotify.com/album/3eKauq2NszRWWs4DjMn997)  
+
 </div>
 
 
