@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXppYTNhcDNnNTQ5NWQyeHFydnVyaW93ZjRuaGEwNHd6bWt5MXppZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeMIcsHFxsN5M8E/giphy.gif" width="600" alt="Cool Dev Animation"/>
-</div>
+
 
 ## 🎮 Welcome to My Dev World!  
 
