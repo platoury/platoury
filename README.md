@@ -4,7 +4,13 @@
 
 ## 🎮 Welcome to My Dev World!  
 
-✨ I'm **Ali Hussein** – a passionate **Game Developer** building worlds with **Godot Engine** 🎮  
+<div align="center">
+
+<h1>✨ I'm <span style="color:#00BFFF;">Ali Hussein</span> ✨</h1>
+
+<h3>🎮 A passionate <strong>Game Developer</strong> crafting immersive worlds with <span style="color:#478CBF;">Godot Engine</span> 🎮</h3>
+
+</div>
 
 </div>
 
