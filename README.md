@@ -11,8 +11,8 @@
 
 ## 🕹️ About Me  
 
-- 👋 Hi, I’m **Ali Hussein**  
-- 🧩 I create **2D / 3D games** with **Godot Engine**  
+- 👨‍💻 Hi, I’m **Ali Hussein**  
+- 🎮 I create **2D / 3D games** with **Godot Engine**  
 - 💻 Main programming weapons: **C, Python & GDScript**  
 - 📚 **Raylib** (C library for game programming)  
 - 📺 Sharing my work on [**YouTube**](https://www.youtube.com/@Platourygo)  
