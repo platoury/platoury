@@ -38,10 +38,11 @@
 ## 🎧 Currently Vibing To  
 
 <div align="center">
-
-[![Assassin's Creed OST](https://img.shields.io/badge/Spotify-Assassin's_Creed_OST-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXa2EiKmMLhFD)
-
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="300px"/>
+  <br>
+  🎶 Listening to: Assassin’s Creed OST 🎮
 </div>
+
 
 
 ---
