@@ -35,13 +35,6 @@
 
 ---
 
-## 🎧 Currently Vibing To  
-
-<div align="center">
-
-[![Assassin's Creed II OST](https://i.scdn.co/image/ab67616d0000b27328b1daea6cd1c4a41d65293a)](https://open.spotify.com/album/3eKauq2NszRWWs4DjMn997)  
-
-</div>
 
 
 
