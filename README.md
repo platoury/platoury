@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdod3I5YmNxcWNrYTg4ZDlzNmdsYjl3ZzE3Y2hna2lsZ2t0c2U0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="600" alt="Cool Dev Animation"/>
-</div>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXppYTNhcDNnNTQ5NWQyeHFydnVyaW93ZjRuaGEwNHd6bWt5MXppZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeMIcsHFxsN5M8E/giphy.gif" width="600" alt="Cool Dev Animation"/></div>
 
 <div align="center">
   <h1>✨ Welcome to My GAME DEV World! ✨</h1>
